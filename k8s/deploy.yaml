@@ -17,6 +17,13 @@ spec:
     spec:
       containers:
       - name: sparkjava
-        image: 003669760817.dkr.ecr.ap-northeast-1.amazonaws.com/tomcat
+        image: 003669760817.dkr.ecr.ap-northeast-1.amazonaws.com/tomcat:22
         ports:
         - containerPort: 8080
+
+
+
+
+
+
+        
