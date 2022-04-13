@@ -8,6 +8,6 @@ spec:
     app:  sparkjava
   type:  ClusterIP 
   ports:
-  - name:  sparkjava
+  - name:  sparkjava-deploy
     port:  80
     targetPort:  8080
